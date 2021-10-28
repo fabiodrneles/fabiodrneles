@@ -6,7 +6,7 @@
 
 I'm Fábio from Brazil, and i do content on Design and Developement. I really enjoy learning languages and frameworks like javascript, python, Vuejs and Ionic. I also enjoy wireframing, ui, ux and design in general.
 
-Skills: HTML / CSS / JS / VUE JS / IONIC
+Skills: HTML / CSS / JS / VUE JS / IONIC / ELECTRON
 
 
 <br />
