@@ -13,4 +13,7 @@ I'm Fábio from Brazil, and i do content on Design and Developement. I really en
 
 Skills: HTML / CSS / JS / VUE JS / IONIC
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodrneles)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 🔭 I’m currently working on this page. 
