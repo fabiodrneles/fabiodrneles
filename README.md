@@ -8,6 +8,7 @@ I'm Fábio from Brazil, and i do content on Design and Developement. I really en
 
 Skills: HTML / CSS / JS / VUE JS / IONIC / ELECTRON
 
+<a href="https://www.linkedin.com/in/f%C3%A1bio-d-dorneles/">My LinKedin (in Portuguese)</a>
 
 <br />
 
