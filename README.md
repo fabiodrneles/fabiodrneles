@@ -1,36 +1,59 @@
-### Hi there 👋
+<!--Banner session-->
+<!--<p align="center"><img src="https://imgur.com/jSBcQQe.png"/><br>-->
+<a align="center"><img src="https://i.imgur.com/uTk6zzB.png"/><br>
 
-### Fábio D'arcy
-#### Front-End Developement
-![Design and Developement](https://camo.githubusercontent.com/3bf07f6e5d6353032e1f30627a228bb569d0ee11eae44a776896d5f46f8fe1f7/68747470733a2f2f676f676f70726f672e6769746875622e696f2f73757065722d6d6172696f2d6d6573736167652f766964656f2e676966)
+<!--About session-->
+<h3>Hi, I'm Fabio D'arcy! Welcome to my GitHub 😁</h3>
+<span><em>Front-end Developer Jr.</em></span>
+<br><br>
+<p>Father, Husband, communicative and cheerful, a person who values simple and humble things. I love being with my family and friends. I like to read about various topics and I'm passionate about anime, music, cinema and crazy about games, an assumed nerd since childhood! I'm always looking for time to go out with my family, also learn and, especially, teach my son Bryan the steps of programming.</p>
+To learn more about me, visit my <a target="_blank" rel="noopener noreferrer" href="">Personal Portfolio</a>, there you can view my full profile.
 
-I'm Fábio from Brazil, and i do content on Design and Developement. I really enjoy learning languages and frameworks like javascript, python, Vuejs and Ionic. I also enjoy wireframing, ui, ux and design in general. And I'm recently learning to work with java
+##
 
-Skills: HTML / CSS / JS / VUE JS / IONIC / ELECTRON
+<!-- Badges session -->
+<span><img src="https://visitor-badge.laobi.icu/badge?page_id=fabiodrneles" alt="Fabio D'arcy"/></span>
+<a href="https://github.com/fabiodrneles" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=lat-square&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://pt.stackoverflow.com/users/278105/fabio-darcy" target="_blank" rel="noopener noreferrer"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="StackOverflow"></a>
+<a href="https://www.linkedin.com/in/f%C3%A1bio-d-dorneles/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=lat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://twitter.com/FabioDrneles" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=lat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://www.instagram.com/fabiodrneles/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=lat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/FabioDrneles/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=lat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 
-<a href="https://www.linkedin.com/in/f%C3%A1bio-d-dorneles/">My LinKedin (in Portuguese)</a>
+<div align="center">
+  <a href="https://github.com/fabiodrneles">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiodrneles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabiodrneles&layout=compact&langs_count=15&theme=tokyonight" />
+</div>
 
-<br />
+##
+  
+<h3>A little more about my studies...</h3>
 
-## 🧰 Languages and Tools of Interest:
-<p align="center">
+```javascript
+const fabiodrneles = {
+  code: ['HTML', 'CSS', 'JavaScript', 'Python'],
+  technologies: {
+    tools: ['Node.js','ReactJS', 'Yarn', 'npm', 'git', 'styled-components'],
+    mobile: ['React Native'],
+    databases: ['SQL', 'PostgreSQL', 'MongoDB', 'MySQL', 'SQLite'],
+    ides: ['VS Code', 'intellij IDEA', 'Eclipse', 'Pycharm'],
+  },
+  methodologies: ['Scrum', 'Agile'],
+  interest: ['Flask', 'Django', 'Angular2', 'Bootstrap', 'GraphQL'],
+  otherCodes: ['Java', 'TypeScript']
+}
+```
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="VUEJS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="ANGULAR" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="REACTJS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" alt="flutter" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="DART" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-</p>
+<div style="display: inline_block"><br>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" height="30" width="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" height="30" width="40""/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="30" width="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="30" width="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" height="30" width="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" title="NodeJS" height="30" width="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" title="ReactJS" height="30" width="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" height="30" width="40"/>
+<div>
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodrneles)](https://github.com/anuraghazra/github-readme-stats)
-
-
-- 🔭 I’m currently working on this page. 
