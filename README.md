@@ -1,6 +1,6 @@
 <!--Banner session-->
-<!--<p align="center"><img src="https://imgur.com/jSBcQQe.png"/><br>-->
-<a align="center"><img src="https://i.imgur.com/uTk6zzB.png"/><br>
+<p align="center"><img src="https://imgur.com/jSBcQQe.png"/><br>
+<!--<a align="center"><img src="https://i.imgur.com/uTk6zzB.png"/><br>-->
 
 <!--About session-->
 <h3>Hi, I'm Fabio D'arcy! Welcome to my GitHub 😁</h3>
