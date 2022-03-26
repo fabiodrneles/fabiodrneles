@@ -34,13 +34,13 @@ To learn more about me, visit my <a target="_blank" rel="noopener noreferrer" hr
 const fabiodrneles = {
   code: ['HTML', 'CSS', 'JavaScript', 'Python'],
   technologies: {
-    tools: ['Node.js','ReactJS', 'Yarn', 'npm', 'git', 'styled-components'],
+    tools: ['Node.js','ReactJS', 'Yarn', 'npm', 'git'],
     mobile: ['React Native'],
-    databases: ['SQL', 'PostgreSQL', 'MongoDB', 'MySQL', 'SQLite'],
-    ides: ['VS Code', 'intellij IDEA', 'Eclipse', 'Pycharm'],
+    databases: ['SQL', 'PostgreSQL', 'MongoDB', 'MySQL'],
+    ides: ['VS Code', 'intellij IDEA', 'Eclipse'],
   },
   methodologies: ['Scrum', 'Agile'],
-  interest: ['Flask', 'Django', 'Angular2', 'Bootstrap', 'GraphQL'],
+  interest: ['Flask', 'Django', 'Bootstrap', 'GraphQL'],
   otherCodes: ['Java', 'TypeScript']
 }
 ```
