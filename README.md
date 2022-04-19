@@ -32,7 +32,7 @@ To learn more about me, visit my <a target="_blank" rel="noopener noreferrer" hr
 
 ```javascript
 const fabiodrneles = {
-  code: ['HTML', 'CSS', 'JavaScript', 'Python'],
+  code: ['HTML', 'CSS', 'JavaScript', 'PHP'],
   technologies: {
     tools: ['Node.js','ReactJS', 'Yarn', 'npm', 'git'],
     mobile: ['React Native'],
