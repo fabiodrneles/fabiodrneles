@@ -37,7 +37,7 @@ const fabiodrneles = {
   technologies: {
     tools: ['Bootstrap','ReactJS', 'Laravel', 'Git', 'Linux'],
     mobile: ['React Native'],
-    databases: ['PostgreSQL', 'MongoDB', 'MySQL'],
+    databases: ['MySQL', 'PostgreSQL'],
     IDE: ['VS Code', 'intellij IDEA', 'Eclipse'],
   },
   methodologies: ['Scrum', 'Agile'],
