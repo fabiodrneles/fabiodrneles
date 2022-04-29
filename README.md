@@ -1,6 +1,7 @@
 <!--Banner session-->
 <!--<p align="center"><img src="https://imgur.com/jSBcQQe.png"/><br>-->
-<a align="center"><img src="https://i.imgur.com/uTk6zzB.png"/><br>
+<!--<a align="center"><img src="https://i.imgur.com/uTk6zzB.png"/><br>-->
+<a align="center"><img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/04/Cover-Image.png"/>
 
 <!--About session-->
 <h3>Hi, I'm Fabio D'arcy! Welcome to my GitHub 😁</h3>
@@ -32,16 +33,16 @@ To learn more about me, visit my <a target="_blank" rel="noopener noreferrer" hr
 
 ```javascript
 const fabiodrneles = {
-  code: ['HTML', 'CSS', 'JavaScript', 'PHP'],
+  code: ['HTML', 'CSS', 'JAVASCRIPT', 'PHP'],
   technologies: {
-    tools: ['Node.js','ReactJS', 'Yarn', 'npm', 'git'],
+    tools: ['Bootstrap','ReactJS', 'Laravel', 'Git', 'Linux'],
     mobile: ['React Native'],
     databases: ['SQL', 'PostgreSQL', 'MongoDB', 'MySQL'],
-    ides: ['VS Code', 'intellij IDEA', 'Eclipse'],
+    IDE: ['VS Code', 'intellij IDEA', 'Eclipse'],
   },
   methodologies: ['Scrum', 'Agile'],
-  interest: ['Flask', 'Django', 'Bootstrap', 'GraphQL'],
-  otherCodes: ['Java', 'TypeScript']
+  interest: ['Problem-Solving', 'Critical-Thinking', 'Time-Management'],
+  otherCodes: ['Java', 'TypeScript', 'Python']
 }
 ```
 
