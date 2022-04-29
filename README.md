@@ -55,6 +55,7 @@ const fabiodrneles = {
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" title="NodeJS" height="30" width="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" title="ReactJS" height="30" width="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" height="30" width="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" title="php" height="30" width="40"/>
 <div>
 <br>
 
