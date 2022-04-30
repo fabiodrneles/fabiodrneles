@@ -7,7 +7,8 @@
 <h3>Hi, I'm Fabio D'arcy! Welcome to my GitHub 😁</h3>
 <span><em>Front-end Developer Jr.</em></span>
 <br><br>
-<p>Father, Husband, communicative and cheerful, a person who values simple and humble things. I love being with my family and friends. I like to read about various topics and I'm passionate about anime, music, cinema and crazy about games, an assumed nerd since childhood! I'm always looking for time to go out with my family, also learn and, especially, teach my son Bryan the steps of programming.</p>
+<p>Pai, Esposo, comunicativo e alegre, uma pessoa que valoriza as coisas simples e humildes. Gosto de ler sobre vários temas e sou apaixonada por música, cinema e games, um nerd assumido desde criança! Estou sempre em busca de tempo para aprender algo novo e principalmente ensinar ao meu filho Bryan os passos da programação e sobre as maravilhas da tecnologia.</p>
+
 To learn more about me, visit my <a target="_blank" rel="noopener noreferrer" href="">Personal Portfolio</a>, there you can view my full profile.
 
 ##
