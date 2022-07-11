@@ -37,7 +37,7 @@ const fabiodrneles = {
   code: ['HTML', 'CSS', 'JAVASCRIPT', 'TYPESCRIPT', 'JAVA'],
   technologies: {
     tools: ['Bootstrap', 'ReactJS', 'React Native', 'Laravel', 'Git', 'Linux'],
-    mobile: ['Java', kotlin ],
+    mobile: ['Java', 'kotlin'],
     databases: ['MySQL', 'PostgreSQL'],
     IDE: ['VS Code', 'Android Studio', 'Eclipse'],
   },
