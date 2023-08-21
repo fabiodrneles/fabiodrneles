@@ -1,6 +1,3 @@
-<!--Banner session-->
-<!--<p align="center"><img src="https://imgur.com/jSBcQQe.png"/><br>-->
-<!--<a align="center"><img src="https://i.imgur.com/uTk6zzB.png"/><br>-->
 <a align="center"><img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/04/Cover-Image.png"/>
 
 <!--About session-->
