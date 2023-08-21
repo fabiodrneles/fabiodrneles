@@ -1,3 +1,4 @@
+<!--Banner session-->
 <a align="center"><img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/04/Cover-Image.png"/>
 
 <!--About session-->
