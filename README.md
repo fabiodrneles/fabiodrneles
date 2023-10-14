@@ -32,16 +32,16 @@ To learn more about me, visit my <a target="_blank" rel="noopener noreferrer" hr
 
 ```javascript
 const fabiodrneles = {
-  code: ['HTML', 'CSS', 'JAVASCRIPT', 'TYPESCRIPT', 'JAVA'],
+  code: ['HTML', 'CSS', 'JAVASCRIPT', 'C#', 'JAVA'],
   technologies: {
-    tools: ['Bootstrap', 'ReactJS', 'React Native', 'Laravel', 'Git', 'Linux'],
+    tools: ['Bootstrap', 'ReactJS', 'React Native', '.NET', 'Git', 'NextJS'],
     mobile: ['Java', 'kotlin'],
     databases: ['MySQL', 'PostgreSQL'],
-    IDE: ['VS Code', 'Android Studio', 'Eclipse'],
+    IDE: ['VS Code', 'Android Studio', 'Eclipse', 'Netbeans'],
   },
   methodologies: ['Scrum', 'Agile'],
   interest: ['Problem-Solving', 'Design-Thinking', 'Time-Management'],
-  otherCodes: ['PYTHON', 'PHP']
+  otherCodes: ['TypeScript', 'PHP']
 }
 ```
 
