@@ -32,10 +32,10 @@ To learn more about me, visit my <a target="_blank" rel="noopener noreferrer" hr
 
 ```javascript
 const fabiodrneles = {
-  code: ['HTML', 'CSS', 'JAVASCRIPT', 'C#', 'JAVA', 'Kotlin'],
+  code: ['HTML', 'CSS', 'JAVASCRIPT', 'JAVA', 'KOTLIN'],
   technologies: {
-    tools: ['Bootstrap', 'ReactJS', 'React Native', 'Git', 'NextJS'],
-    mobile: ['Java', 'Kotlin'],
+    tools: ['Bootstrap', 'ReactJS', 'React Native', 'Git', 'NextJS', 'ANGULAR 2'],
+    mobile: ['JAVA', 'KOTLIN'],
     databases: ['MySQL', 'PostgreSQL', 'Firebase', 'Room'],
     IDE: ['VS Code', 'Android Studio', 'Eclipse', 'Netbeans', 'Intellij'],
   },
