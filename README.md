@@ -32,16 +32,16 @@ To learn more about me, visit my <a target="_blank" rel="noopener noreferrer" hr
 
 ```javascript
 const fabiodrneles = {
-  code: ['HTML', 'CSS', 'JAVASCRIPT', 'C#', 'JAVA'],
+  code: ['HTML', 'CSS', 'JAVASCRIPT', 'C#', 'JAVA', 'Kotlin'],
   technologies: {
-    tools: ['Bootstrap', 'ReactJS', 'React Native', '.NET', 'Git', 'NextJS'],
-    mobile: ['Java', 'kotlin'],
-    databases: ['MySQL', 'PostgreSQL'],
-    IDE: ['VS Code', 'Android Studio', 'Eclipse', 'Netbeans'],
+    tools: ['Bootstrap', 'ReactJS', 'React Native', 'Git', 'NextJS'],
+    mobile: ['Java', 'Kotlin'],
+    databases: ['MySQL', 'PostgreSQL', 'Firebase', 'Room'],
+    IDE: ['VS Code', 'Android Studio', 'Eclipse', 'Netbeans', 'Intellij'],
   },
   methodologies: ['Scrum', 'Agile'],
   interest: ['Problem-Solving', 'Design-Thinking', 'Time-Management'],
-  otherCodes: ['TypeScript', 'PHP']
+  otherCodes: ['TypeScript', 'PHP', 'C#']
 }
 ```
 
@@ -50,12 +50,18 @@ const fabiodrneles = {
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" height="30" width="40""/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="30" width="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="30" width="40"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" height="30" width="40"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" title="NodeJS" height="30" width="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" title="ReactJS" height="30" width="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" title="Angular" height="30" width="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" height="30" width="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" title="Kotlin" height="30" width="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" title="Android" height="30" width="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" height="30" width="40"/>
+  
+  <!--
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" title="NodeJS" height="30" width="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" title="php" height="30" width="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="php" title="php" height="30" width="40"/>
+  -->
   
 <div>
 <br>
